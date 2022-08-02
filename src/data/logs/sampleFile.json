@@ -1,0 +1,146 @@
+[
+  {
+    "date": "2022-08-01T18:21:35.425Z",
+    "pid": 0,
+    "tid": 0,
+    "type": "info",
+    "tag": "client_log",
+    "message": "PERF-MONITOR-LOG|BigPromiseAll|224|358",
+    "count": 1
+  },
+  {
+    "date": "2022-08-01T18:21:35.540Z",
+    "pid": 0,
+    "tid": 0,
+    "type": "info",
+    "tag": "client_log",
+    "message": "PERF-MONITOR-LOG|Promise.all|358|473",
+    "count": 1
+  },
+  {
+    "date": "2022-08-01T18:21:35.545Z",
+    "pid": 0,
+    "tid": 0,
+    "type": "info",
+    "tag": "client_log",
+    "message": "PERF-MONITOR-LOG|loginStore.init|474|476",
+    "count": 1
+  },
+  {
+    "date": "2022-08-01T18:21:36.033Z",
+    "pid": 0,
+    "tid": 0,
+    "type": "info",
+    "tag": "client_log",
+    "message": "PERF-MONITOR-LOG|trackingService.init|477|959",
+    "count": 1
+  },
+  {
+    "date": "2022-08-01T18:21:36.069Z",
+    "pid": 0,
+    "tid": 0,
+    "type": "info",
+    "tag": "client_log",
+    "message": "PERF-MONITOR-LOG|non-promise stuff|972|989",
+    "count": 1
+  },
+  {
+    "date": "2022-08-01T18:21:36.383Z",
+    "pid": 0,
+    "tid": 0,
+    "type": "info",
+    "tag": "client_log",
+    "message": "PERF-MONITOR-LOG|retry|991|1120",
+    "count": 1
+  },
+  {
+    "date": "2022-08-01T18:21:36.387Z",
+    "pid": 0,
+    "tid": 0,
+    "type": "info",
+    "tag": "client_log",
+    "message": "PERF-MONITOR-LOG|non-promise stuff 2|1124|1306",
+    "count": 1
+  },
+  {
+    "date": "2022-08-01T18:21:37.500Z",
+    "pid": 0,
+    "tid": 0,
+    "type": "info",
+    "tag": "client_log",
+    "message": "PERF-MONITOR-LOG|PROMISE 1|1318|2427",
+    "count": 1
+  },
+  {
+    "date": "2022-08-01T18:21:37.995Z",
+    "pid": 0,
+    "tid": 0,
+    "type": "info",
+    "tag": "client_log",
+    "message": "PERF-MONITOR-LOG|resolveBdFOrUser|2430|2935",
+    "count": 1
+  },
+  {
+    "date": "2022-08-01T18:21:38.248Z",
+    "pid": 0,
+    "tid": 0,
+    "type": "info",
+    "tag": "client_log",
+    "message": "PERF-MONITOR-LOG|initRemoteConfig|2433|3147",
+    "count": 1
+  },
+  {
+    "date": "2022-08-01T18:21:38.556Z",
+    "pid": 0,
+    "tid": 0,
+    "type": "info",
+    "tag": "client_log",
+    "message": "PERF-MONITOR-LOG|init|2560|3390",
+    "count": 1
+  },
+  {
+    "date": "2022-08-01T18:21:38.610Z",
+    "pid": 0,
+    "tid": 0,
+    "type": "info",
+    "tag": "client_log",
+    "message": "PERF-MONITOR-LOG|PROMISE 2|2428|3392",
+    "count": 1
+  },
+  {
+    "date": "2022-08-01T18:21:38.623Z",
+    "pid": 0,
+    "tid": 0,
+    "type": "info",
+    "tag": "client_log",
+    "message": "PERF-MONITOR-LOG|loadStoriesAndAudiobooksConfig|3392|3402",
+    "count": 1
+  },
+  {
+    "date": "2022-08-01T18:21:40.464Z",
+    "pid": 0,
+    "tid": 0,
+    "type": "info",
+    "tag": "client_log",
+    "message": "PERF-MONITOR-LOG|userPreferencesStore.init|3403|5400",
+    "count": 1
+  },
+  {
+    "date": "2022-08-01T18:21:40.484Z",
+    "pid": 0,
+    "tid": 0,
+    "type": "info",
+    "tag": "client_log",
+    "message": "PERF-MONITOR-LOG|initialize|207|5420",
+    "count": 1
+  },
+  {
+    "date": "2022-08-01T18:21:40.491Z",
+    "pid": 0,
+    "tid": 0,
+    "type": "info",
+    "tag": "client_log",
+    "message": "PERF-MONITOR-LOG|DONE|5428|5428",
+    "count": 1
+  }
+]
