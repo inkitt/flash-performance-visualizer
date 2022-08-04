@@ -1,0 +1,238 @@
+[
+  {
+    "id": 8522063835937982000,
+    "requestTime": "2022-08-04T16:01:08.349Z",
+    "method": "POST",
+    "url": "https://galatea-api.inkitt.com/api/v4/user/get-user-id",
+    "domain": "galatea-api.inkitt.com/api/v4/user/get-user-id",
+    "requestHeaders": [
+      {
+        "value": "application/json",
+        "key": "Content-Type"
+      },
+      {
+        "value": "application/json",
+        "key": "Accept"
+      }
+    ],
+    "requestData": "{\"deviceId\":\"34ef87a9-3b8f-4908-9d7c-768be5ebf0cf\",\"osName\":\"ios\"}",
+    "responseTime": "2022-08-04T16:01:10.659Z",
+    "status": 200,
+    "reason": "no error",
+    "responseHeaders": [
+      {
+        "value": "nginx",
+        "key": "Server"
+      },
+      {
+        "value": "Express",
+        "key": "x-powered-by"
+      },
+      {
+        "value": "application/json; charset=utf-8",
+        "key": "Content-Type"
+      },
+      {
+        "value": "max-age=15724800; includeSubDomains",
+        "key": "Strict-Transport-Security"
+      },
+      {
+        "value": "W/\"1e-gjOKEG0jBd9Wa0b0DcNg2T25/WA\"",
+        "key": "Etag"
+      },
+      {
+        "value": "Thu, 04 Aug 2022 16:01:10 GMT",
+        "key": "Date"
+      },
+      {
+        "value": "gzip",
+        "key": "Content-Encoding"
+      },
+      {
+        "value": "Accept-Encoding, Accept-Encoding",
+        "key": "Vary"
+      }
+    ],
+    "responseData": "{\"statusCode\":200,\"user\":null}",
+    "responseLength": 30,
+    "requestLength": 49,
+    "duration": 2310
+  },
+  {
+    "id": -5705037011268149000,
+    "requestTime": "2022-08-04T16:01:13.349Z",
+    "method": "POST",
+    "url": "https://galatea-api.inkitt.com/api/v4/user/get-user-id",
+    "domain": "galatea-api.inkitt.com/api/v4/user/get-user-id",
+    "requestHeaders": [
+      {
+        "value": "application/json",
+        "key": "Content-Type"
+      },
+      {
+        "value": "application/json",
+        "key": "Accept"
+      }
+    ],
+    "requestData": "{\"deviceId\":\"16920c96-0cc2-4c9c-865f-e5d2c7076bae\",\"osName\":\"ios\"}",
+    "responseTime": "2022-08-04T16:01:13.532Z",
+    "status": 200,
+    "reason": "no error",
+    "responseHeaders": [
+      {
+        "value": "nginx",
+        "key": "Server"
+      },
+      {
+        "value": "Express",
+        "key": "x-powered-by"
+      },
+      {
+        "value": "application/json; charset=utf-8",
+        "key": "Content-Type"
+      },
+      {
+        "value": "max-age=15724800; includeSubDomains",
+        "key": "Strict-Transport-Security"
+      },
+      {
+        "value": "W/\"1e-gjOKEG0jBd9Wa0b0DcNg2T25/WA\"",
+        "key": "Etag"
+      },
+      {
+        "value": "Thu, 04 Aug 2022 16:01:13 GMT",
+        "key": "Date"
+      },
+      {
+        "value": "gzip",
+        "key": "Content-Encoding"
+      },
+      {
+        "value": "Accept-Encoding, Accept-Encoding",
+        "key": "Vary"
+      }
+    ],
+    "responseData": "{\"statusCode\":200,\"user\":null}",
+    "responseLength": 30,
+    "requestLength": 49,
+    "duration": 183
+  },
+  {
+    "id": -3807773448180646000,
+    "requestTime": "2022-08-04T16:01:18.369Z",
+    "method": "POST",
+    "url": "https://galatea-api.inkitt.com/api/v4/user/get-user-id",
+    "domain": "galatea-api.inkitt.com/api/v4/user/get-user-id",
+    "requestHeaders": [
+      {
+        "value": "application/json",
+        "key": "Content-Type"
+      },
+      {
+        "value": "application/json",
+        "key": "Accept"
+      }
+    ],
+    "requestData": "{\"deviceId\":\"20f0c101-67ce-4bc7-922e-7e62e6cf503d\",\"osName\":\"ios\"}",
+    "responseTime": "2022-08-04T16:01:18.535Z",
+    "status": 200,
+    "reason": "no error",
+    "responseHeaders": [
+      {
+        "value": "nginx",
+        "key": "Server"
+      },
+      {
+        "value": "Express",
+        "key": "x-powered-by"
+      },
+      {
+        "value": "application/json; charset=utf-8",
+        "key": "Content-Type"
+      },
+      {
+        "value": "max-age=15724800; includeSubDomains",
+        "key": "Strict-Transport-Security"
+      },
+      {
+        "value": "W/\"1e-gjOKEG0jBd9Wa0b0DcNg2T25/WA\"",
+        "key": "Etag"
+      },
+      {
+        "value": "Thu, 04 Aug 2022 16:01:18 GMT",
+        "key": "Date"
+      },
+      {
+        "value": "gzip",
+        "key": "Content-Encoding"
+      },
+      {
+        "value": "Accept-Encoding, Accept-Encoding",
+        "key": "Vary"
+      }
+    ],
+    "responseData": "{\"statusCode\":200,\"user\":null}",
+    "responseLength": 30,
+    "requestLength": 49,
+    "duration": 166
+  },
+  {
+    "id": -3044094715745346000,
+    "requestTime": "2022-08-04T16:01:23.382Z",
+    "method": "POST",
+    "url": "https://galatea-api.inkitt.com/api/v4/user/get-user-id",
+    "domain": "galatea-api.inkitt.com/api/v4/user/get-user-id",
+    "requestHeaders": [
+      {
+        "value": "application/json",
+        "key": "Content-Type"
+      },
+      {
+        "value": "application/json",
+        "key": "Accept"
+      }
+    ],
+    "requestData": "{\"deviceId\":\"11704122-b2bd-4821-8558-3493765dedcf\",\"osName\":\"ios\"}",
+    "responseTime": "2022-08-04T16:01:23.550Z",
+    "status": 200,
+    "reason": "no error",
+    "responseHeaders": [
+      {
+        "value": "nginx",
+        "key": "Server"
+      },
+      {
+        "value": "Express",
+        "key": "x-powered-by"
+      },
+      {
+        "value": "application/json; charset=utf-8",
+        "key": "Content-Type"
+      },
+      {
+        "value": "max-age=15724800; includeSubDomains",
+        "key": "Strict-Transport-Security"
+      },
+      {
+        "value": "W/\"1e-gjOKEG0jBd9Wa0b0DcNg2T25/WA\"",
+        "key": "Etag"
+      },
+      {
+        "value": "Thu, 04 Aug 2022 16:01:23 GMT",
+        "key": "Date"
+      },
+      {
+        "value": "gzip",
+        "key": "Content-Encoding"
+      },
+      {
+        "value": "Accept-Encoding, Accept-Encoding",
+        "key": "Vary"
+      }
+    ],
+    "responseData": "{\"statusCode\":200,\"user\":null}",
+    "responseLength": 30,
+    "requestLength": 49,
+    "duration": 168
+  }
+]
