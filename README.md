@@ -10,7 +10,7 @@ It was created using create-react-app.
 - Flipper (https://fbflipper.com/)
 - Inkitt Flash App (https://github.com/inkitt/flash)
 
-## How to use
+## How to use Console Logging Utility
 
 1. Startup Flipper and select the 'React Native Logs' tab
 2. Use console.log in the inkitt/flash app formatted like this
@@ -41,5 +41,16 @@ Note:
 4. Enter `PERF-MONITOR-LOG` in the "Search" bar in flipper to filter the logs to only perf monitoring logs
 5. Highlight all rows and select `Copy Row(s) -> Copy Row(s) JSON`
 6. Add a new file to `src/data/logs/<FILE_NAME_HERE>.json`. File name can be anything you want it to be but should be unique across all files in this directory.
-7. Run `npm run start` to start the logging app.
-8. All files that exist in the `logs` directory will be available in the dropdown above the chart.
+7. Run `npm run start` to start the app.
+8. Select the `View Logs` button.
+9. All files that exist in the `logs` directory will be available in the dropdown above the chart.
+
+## How to use Network Logging Utility
+
+1. Startup Flipper and select the 'Network' tab (it may be disabled)
+2. Run the inkitt/flash app
+3. Highlight desired rows in Flipper network logs and select `Copy Row(s) -> Copy Row(s) JSON`
+4. Add a new file to `src/data/network/<FILE_NAME_HERE>.json`. File name can be anything you want it to be but should be unique across all files in this directory.
+5. Run `npm run start` to start the app.
+6. Select the `View Network Performance` button.
+7. All files that exist in the `network` directory will be available in the dropdown above the chart.

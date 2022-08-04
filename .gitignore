@@ -2,6 +2,7 @@
 
 # ignore log files
 /src/data/logs
+/src/data/network
 
 # dependencies
 /node_modules
